@@ -4,7 +4,7 @@
 
 A complete, self-contained Business Analyst case study built to mirror how a real rebate/channel-incentive implementation (in the style of Vistex, Enable, or Vendavo) is scoped, documented, and validated — from first client conversation to UAT sign-off.
 
-This project was built as a **portfolio piece for a Business Analyst Internship application**, to demonstrate BA fundamentals (requirements gathering, BRD writing, process modeling, UAT testing) applied to a specialized, in-demand domain: rebate and channel incentive management.
+This repository showcases an end-to-end Business Analyst case study based on a realistic rebate and channel incentive management implementation. It includes stakeholder discovery, business requirements documentation, process modeling, business rules, and User Acceptance Testing (UAT) artifacts to demonstrate industry-standard BA practices.
 
 ---
 
